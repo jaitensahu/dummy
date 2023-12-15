@@ -99,7 +99,7 @@
 
 }
 .heroSection h1:nth-child(1){
- color: Green;
+ color: rgb(200, 255, 0);
 }
 .heroContent{
   position: fixed;
